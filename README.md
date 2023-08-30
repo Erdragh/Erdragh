@@ -1,6 +1,5 @@
 # Jan Bayer (*Erdragh*)
 
-
 [![CurseForge downloads](https://cf.way2muchnoise.eu/author/Erdragh.svg?badge_style=for_the_badge)](https://legacy.curseforge.com/members/Erdragh/projects)
 [![Proud Arch Linux User](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
 [![IntelliJ IDEA User](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
@@ -8,6 +7,10 @@
 [![Firefox User](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/)
 
 ## About me
+
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erdragh&theme=light#gh-light-mode-only" alt="Top Langs" align="right" width="33%">](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erdragh&theme=dark#gh-dark-mode-only" alt="Top Langs" align="right" width="33%">](https://github.com/anuraghazra/github-readme-stats)
+
 I'm a Computer Science Student from Germany. I also work as a Web Developer at [Auctores GmbH](https://auctores.de), where I'm partly responsible for creating a soon-to-be open source Content Management System.
 
 ## At work
