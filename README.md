@@ -8,8 +8,7 @@
 
 ## About me
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erdragh&theme=light#gh-light-mode-only" alt="Top Langs" align="right" width="33%">](https://github.com/anuraghazra/github-readme-stats)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erdragh&theme=dark#gh-dark-mode-only" alt="Top Langs" align="right" width="33%">](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erdragh&theme=dark" alt="Top Langs" align="right" width="33%">](https://github.com/Erdragh?tab=repositories&q=&type=&language=kotlin&sort=)
 
 I'm a Computer Science Student from Germany. I also work as a Web Developer at [Auctores GmbH](https://auctores.de), where I'm partly responsible for creating a soon-to-be open source Content Management System.
 
