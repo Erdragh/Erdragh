@@ -8,7 +8,17 @@
 
 ## About me
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erdragh&theme=dark" alt="Top Langs" align="right" width="33%">](https://github.com/Erdragh?tab=repositories&q=&type=&language=kotlin&sort=)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=erdragh&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=erdragh&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdragh&show_icons=true" />
+</picture>
 
 I'm a Computer Science Student from Germany. I also work as a Web Developer at [Auctores GmbH](https://auctores.de), where I'm partly responsible for creating a soon-to-be open source Content Management System.
 
