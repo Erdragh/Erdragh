@@ -19,18 +19,17 @@
   <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdragh&show_icons=true" />
 </picture>
 
-I'm a Computer Science Student from Germany. I also work as a Web Developer at [Auctores GmbH](https://auctores.de).
+I'm a Software Developer from Germany.
 
 ## At work
 
-- I've used [Angular](https://angular.io/), [React](https://react.dev/) and web components for the frontend
-- I've used [Next.js](https://nextjs.org/) in conjunction with [WildFly](https://www.wildfly.org/)
+- I've used [Angular](https://angular.io/), [React](https://react.dev/), [Next.js](https://nextjs.org/) with web components for the frontend
+- I've written Jakarta EE applications for both Wildfly and Quarkus
 - TypeScript > JavaScript
 
 ## At home
 
 - I have various graphics programming and game dev projects
-- I'm trying out Zig with SDL3 for gamedev
-- I love writing things in Rust
+- I love writing things in Rust, currently a renderer with Vulkan
 - Kotlin > Java
 - I write [Minecraft mods](https://modrinth.com/user/Erdragh)
